@@ -1,6 +1,6 @@
 {
   "name": "es5-lit-element",
-  "version": "0.0.0",
+  "version": "2.2.1",
   "description": "An ES5 transpiled version of lit-element",
   "author": "Wes Todd <wes@wesleytodd.com>",
   "keywords": [
